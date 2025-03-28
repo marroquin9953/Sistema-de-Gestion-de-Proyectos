@@ -60,9 +60,10 @@ Este proyecto fue desarrollado como parte de la evaluación para la asignatura:
 Este proyecto está alojado en VPS Privado, con fines de aplicaciones web estáticas.
 [Ver pagina oficional](url)
 
-## 🚀 Hosting para el Back-End
-Este Back-End está alojado en VPS Privado.
-[Ver pagina oficional](url)
+## 🚀 Hosting para API-REST
+Esta API-REST está alojado en la plataforma Railway. Puedes acceder a la documentación completa de la API en el siguiente enlace:
+[Documentación API](https://sistema-de-gestion-de-proyectos-production.up.railway.app/api-docs/)
+![Banner de API][imagen-API-DOCS]
 
 ## Estructura del Proyecto
 
@@ -78,6 +79,13 @@ Este proyecto para gestionar proyectos que incluye las siguientes característic
 - Gestión de tareas dentro de cada proyecto.
 - Interfaz moderna y responsiva.
 - Integración con una API REST para almacenamiento y recuperación de datos (Back-End).
+
+## 🔧 Instalación y uso
+1. Clona este repositorio
+```bash
+git clone https://github.com/marroquin9953/Sistema-de-Gestion-de-Proyectos.git
+```
+2. ¡Listo para usar!
 
 ## Configuración del Proyecto
 
@@ -96,17 +104,9 @@ npm run dev
 npm run build
 ```
 
-## Estructura de Archivos
-
-## 🔧 Instalación y uso
-1. Clona este repositorio
-```bash
-git clone https://github.com/marroquin9953/Sistema-de-Gestion-de-Proyectos.git
-```
-2. ¡Listo para usar!
-
 ## 📝 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
 [![Apache License-2.0](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 [imagen-proyecto]:https://www.wimi-teamwork.com/static/medias/logiciels-gestion-des-taches-1280x640-1.png
+[imagen-API-DOCS]:https://i.ibb.co/r2KYSQPP/Captura-de-pantalla-2025-03-20-212229.jpg
