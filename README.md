@@ -104,6 +104,7 @@ npm run dev
 npm run build
 ```
 
+
 ## 📊 Diseño de Base de Datos DPS
 
 ### 🔍 Visualización del Diagrama
@@ -576,7 +577,7 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 ```
-
+   
 ## 📝 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
 [![Apache License-2.0](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://www.apache.org/licenses/LICENSE-2.0)
