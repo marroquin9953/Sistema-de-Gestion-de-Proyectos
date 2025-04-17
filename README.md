@@ -65,6 +65,9 @@ Esta API-REST está alojado en la plataforma Railway. Puedes acceder a la docume
 [Documentación API](https://sistema-de-gestion-de-proyectos-production.up.railway.app/api-docs/)
 ![Banner de API][imagen-API-DOCS]
 
+Link enlace video explicativo🔗
+https://drive.google.com/file/d/16CEVR3m0PzSEbvEvGjocrptzpubbS5co/view?usp=share_link
+
 ## Estructura del Proyecto
 
 ```
